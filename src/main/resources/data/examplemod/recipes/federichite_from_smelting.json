@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "examplemod:federichite_ore"
+    },
+    "result": "examplemod:federichite",
+    "experience": 0.7,
+    "cookingtime": 200
+}
